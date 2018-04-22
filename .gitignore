@@ -3,3 +3,6 @@
 /deps
 /*.ez
 node_modules
+
+# Logs
+yarn-error.log
