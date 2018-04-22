@@ -1,0 +1,5 @@
+# App artifacts
+/_build
+/deps
+/*.ez
+node_modules
